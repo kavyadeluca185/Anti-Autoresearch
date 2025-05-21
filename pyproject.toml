@@ -1,0 +1,5 @@
+[project]
+name = "anti-autoresearch"
+version = "0.1.0"
+description = "Don't trust an autoresearch paper at face value. Reviewer-side integrity forensics (self-consistency + fabrication), deterministic verdict. 61 signals: 46 integrity hack-patterns (families A–H, verdict-bearing) + 13 zero-weight AI writing-style impressions (AIS) + 2 advisory. Not an opaque AI-text c"
+requires-python = ">=3.10"
