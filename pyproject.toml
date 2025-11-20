@@ -5,3 +5,4 @@ description = "Don't trust an autoresearch paper at face value. Reviewer-side in
 requires-python = ">=3.10"
 # clarify the control flow
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
